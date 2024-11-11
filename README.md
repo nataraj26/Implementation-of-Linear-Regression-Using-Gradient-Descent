@@ -20,8 +20,8 @@ step 6. End the program
 ```
 
 Program to implement the linear regression using gradient descent.
-Developed by: FRANKLIN RAJ G   
-RegisterNumber: 212223230058
+Developed by: nataraj Kumaran   
+RegisterNumber: 212223230137
 
 import numpy as np
 import matplotlib.pyplot as plt
